@@ -89,8 +89,8 @@ margin-bottom: 30px;
 }
 /* --------------courses style---------------- */
 .courses{
-display: grid;
-grid-template-columns: repeat(3, 1fr);
+float: left;
+padding: 30px;
 
 }
 .course-banner img{ 
